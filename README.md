@@ -1,4 +1,4 @@
-🐦# *Bird Hunter Game*
+# 🐦*Bird Hunter Game*
 The Bird Hunter game includes smooth mouse-based shooting controls, multiple bird types with different speeds, real-time score updates, sound effects for shooting and hits, and a clean and responsive design. It is fully browser-based and easy to run on any modern web browser.
 
 ## Technologies Used
